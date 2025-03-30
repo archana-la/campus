@@ -12,7 +12,7 @@ import { AiOutlineInstagram } from "react-icons/ai";
 function Header() {
   return (
     <>
-      <header className='p-3 b border-bottom'>
+      <header className='p-3 b  d-none d-lg-block border-bottom'>
         <div className="container">
           <div className="row">
             <div className="col-lg-6 ">
@@ -42,7 +42,10 @@ function Header() {
           <a className="navbar-brand" href="#">
             <img className='g rounded' src="https://www.snsc.edu.np/images/Siddhanath-Science-Campus-website.png" alt="" />
           </a>
-          <div className="collapse navbar-collapse d-flex justify-content-end" id="navbarNav">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+          <div className="collapse navbar-collapse  d-none d-lg-block d-flex justify-content-end" id="navbarNav">
             <ul className="navbar-nav">
               <li className="nav-item">
                 <Link className="nav-link active text-light" aria-current="page" href="/">ABOUT</Link>

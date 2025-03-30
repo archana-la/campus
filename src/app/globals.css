@@ -68,13 +68,13 @@ h2 {
 
 .k {
   background: #FF7901;
-  width: 700px;
+ max-width: 700px;
+ width: 100%;
 }
+.e{
 
-.e {
-  width: 400px;
+  width: 100%;
 }
-
 .read-more-btn {
   background-color: #1C5393;
   color: white;
@@ -455,5 +455,35 @@ h3 {
   width: 350px;
   margin-top: -20px;
 }
+/* 
+.campus-section {
+  max-width: 900px;
+  margin: 50px auto;
+  padding: 20px;
+  width: 100%;
+  border-radius: 8px;
+}
+.campus-image {
+  width: 100%;
+  border-radius: 5px;
+ max-width: 700px;
+}
+.message-box {
+  background: #f36d21;
+padding: 20px 15px;
+  border-radius: 5px;
+}
+.btn-read-more {
+  background: #007bff;
+  color: white;
+  text-decoration: none;
+  padding: 10px 15px;
+  display: inline-block;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+.btn-read-more:hover {
+  background: #0056b3;
+}
 
-   
+    */

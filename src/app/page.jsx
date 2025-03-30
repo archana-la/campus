@@ -17,7 +17,7 @@ function page() {
         <div className="container text-center mt-5">
           <h2 className="mb-4">Our Programs</h2>
           <div className="row">
-           
+
             <div className="col-lg-3 mb-4">
               <div className="card">
                 <img className='cc' src="https://www.snsc.edu.np/images/our-services/csit.jpeg" alt="" />
@@ -26,64 +26,64 @@ function page() {
                 </div>
               </div>
             </div>
-        
+
             <div className="col-lg-3 mb-4">
               <div className="card">
-               <img className='cc' src="https://www.snsc.edu.np/images/our-services/bit_feature.JPG" alt="" />
+                <img className='cc' src="https://www.snsc.edu.np/images/our-services/bit_feature.JPG" alt="" />
                 <div className="card-body">
                   <p className="card-text">BIT</p>
                 </div>
               </div>
             </div>
-           
+
             <div className="col-lg-3 mb-4">
               <div className="card">
-               <img className='cc' src="https://www.snsc.edu.np/images/our-services/physics.jpeg" alt="" />
+                <img className='cc' src="https://www.snsc.edu.np/images/our-services/physics.jpeg" alt="" />
                 <div className="card-body">
                   <p className="card-text">BSc. Physics</p>
                 </div>
               </div>
             </div>
-         
+
             <div className="col-lg-3 mb-4">
               <div className="card">
-               <img className='cc' src="https://www.snsc.edu.np/images/our-services/biology_feature.jpeg" alt="" />
+                <img className='cc' src="https://www.snsc.edu.np/images/our-services/biology_feature.jpeg" alt="" />
                 <div className="card-body">
                   <p className="card-text">BSc. Biology</p>
                 </div>
               </div>
             </div>
-           
+
             <div className="col-lg-3 mb-4">
               <div className="card">
-               <img className='cc' src="https://www.snsc.edu.np/images/our-services/chemistry_feature.jpeg" alt="" />
+                <img className='cc' src="https://www.snsc.edu.np/images/our-services/chemistry_feature.jpeg" alt="" />
                 <div className="card-body">
                   <p className="card-text">BSc. Chemistry</p>
                 </div>
               </div>
             </div>
-           
+
             <div className="col-lg-3 mb-4">
               <div className="card">
-               <img className='cc' src="https://www.snsc.edu.np/images/our-services/bsc_feature.JPG" alt="" />
+                <img className='cc' src="https://www.snsc.edu.np/images/our-services/bsc_feature.JPG" alt="" />
                 <div className="card-body">
                   <p className="card-text">BSc. Mathematics</p>
                 </div>
               </div>
             </div>
-           
+
             <div className="col-lg-3 mb-4">
               <div className="card">
-               <img className='cc' src="https://www.snsc.edu.np/images/our-services/msc_phy.JPG" alt="" />
+                <img className='cc' src="https://www.snsc.edu.np/images/our-services/msc_phy.JPG" alt="" />
                 <div className="card-body">
                   <p className="card-text">MSc. Physics</p>
                 </div>
               </div>
             </div>
-           
+
             <div className="col-lg-3 mb-4">
               <div className="card">
-               <img className='cc' src="https://www.snsc.edu.np/images/our-services/bio_feature.JPG" alt="" />
+                <img className='cc' src="https://www.snsc.edu.np/images/our-services/bio_feature.JPG" alt="" />
                 <div className="card-body">
                   <p className="card-text">MSc. Mathematics</p>
                 </div>
@@ -93,24 +93,6 @@ function page() {
         </div>
       </section>
 
-      <section className=' p-5 f'>
-        <div className="container">
-          <div className="row">
-            <div className="col-lg-4">
-              <img className='e' src="https://www.snsc.edu.np/storage/message/1Gajaram%20Damai.jpg" alt="" />
-              <h2 className='text-center py-3'>Gajaram Damai </h2>
-              <p className='text-center'>Campus Chief</p>
-            </div>
-            <div className="col-lg-8 py-2 k">
-              <h2 className='py-3'>Message From Campus Chief</h2>
-              <p>Shree Siddhanath Science Campus, established in 2033 BS in Mahendranagar, is a constituent campus of Tribhuvan University. Hence, it is completely supported and managed by the university. It is offering B.Sc CSIT, BIT, B.Sc, and M.Sc in Physics programs. Unanimity in campus development among all the stakeholders including political parties, parents, representatives of the municipality, District Development Office, etc. Most of the officials and parents are graduates of this campus. There is a sense of belongingness among all concerned. It is located in Bhim Datt Municipality which is an emerging town of Kanchanpur district in the far western Terai of Nepal; it is also a border town adjoining Banbasa, India. It is mainly catering to the students from Kanchanpur and at least nine adjoining districts, mainly of the students are the first generation in higher education, many of them are from Dalit and disadvantaged Janajati groups Siddhanath Science Campus has overcome many challenges and accomplished many achievements.</p>
-              <p>
-                It must be a pride and prestige of the Sudurpaschim Province because it is only one science campus in this area and it has qualified teachers, quality production, and efforts of diverse developments. So Siddhanath Science Campus has become a bright light of education in Far Western Nepal....</p>
-              <a href="#" className="read-more-btn">Read More</a>
-            </div>
-          </div>
-        </div>
-      </section>
 
       <section className="stats-section">
         <div className="container">
@@ -208,7 +190,7 @@ function page() {
         </div>
       </section>
 
-  
+
       <section className='u p-5'>
         <div className="container testimonial-section">
           <h2 className='v'>What People Are Saying</h2>
@@ -218,10 +200,10 @@ function page() {
             {/* First Testimonial */}
             <div className="col-lg-6">
               <div className="testimonial-box">
-              <p>I like the friendly atmosphere here and the fact that the lecturers and staff are close to the students. Lecturers take the time to explain subject areas that pose problems. They are very kind, patient and supportive toward students who need help.
-              The lecturers are also very motivational. This encourages me to be enthusiastic to learn and to attend each class. This has helped me to develop a positive attitude towards my studies.</p>
+                <p>I like the friendly atmosphere here and the fact that the lecturers and staff are close to the students. Lecturers take the time to explain subject areas that pose problems. They are very kind, patient and supportive toward students who need help.
+                  The lecturers are also very motivational. This encourages me to be enthusiastic to learn and to attend each class. This has helped me to develop a positive attitude towards my studies.</p>
                 <div className="d-flex align-items-center">
-                 <img src="https://www.snsc.edu.np/storage/testimonial/SS2.jpg" alt="" />
+                  <img src="https://www.snsc.edu.np/storage/testimonial/SS2.jpg" alt="" />
                   <div className="ms-3">
                     <strong>Arjun Poudel</strong><br />
                     <span className='t'>NASA Scientist</span>
@@ -233,8 +215,8 @@ function page() {
             {/* Second Testimonial */}
             <div className="col-lg-6">
               <div className="testimonial-box">
-              <p>Even though Siddhanath Science Campus in Mahendranager, Kanchanpur is thousands of miles away from my home, it is the college I choose. This is not only because I want to increase my knowledge about science and especially IT, but I am able to meet and make more friends who come from different backgrounds and cultures.
-              Although the campus is not big, the friendliness of the staff and other students and the interesting social activities are definitely more than expected.Though I am alone in MNR without my family members, I feel what I have achieved so far is really worth it. With tasty cuisines, a peaceful atmosphere, and hospitable people, I will definitely miss all these after I complete my studies at SNSC.</p>
+                <p>Even though Siddhanath Science Campus in Mahendranager, Kanchanpur is thousands of miles away from my home, it is the college I choose. This is not only because I want to increase my knowledge about science and especially IT, but I am able to meet and make more friends who come from different backgrounds and cultures.
+                  Although the campus is not big, the friendliness of the staff and other students and the interesting social activities are definitely more than expected.Though I am alone in MNR without my family members, I feel what I have achieved so far is really worth it. With tasty cuisines, a peaceful atmosphere, and hospitable people, I will definitely miss all these after I complete my studies at SNSC.</p>
                 <div className="d-flex align-items-center">
                   <img src="https://www.snsc.edu.np/storage/testimonial/SS3.jpg" alt="" />
                   <div className="ms-3">
@@ -248,28 +230,28 @@ function page() {
           </div>
         </div>
       </section>
-     
+
       <section className='zz'>
-  <div className="container-fluid banner">
-    <div className="row justify-content-center align-items-center text-center">
-      <div className="col-lg-6">
-        <h2 className="text-white">Subscribe To Our Newsletter for getting quick Information.</h2>
-        <div className='card'>
-        <form className="newsletter-form">
-          <div className="input-group">
-            <input type="text" className="form-control" placeholder="Your Name" />
-            <input type="email" className="form-control" placeholder="Your Email Address" />
-            <button className="btn btn-primary">SUBSCRIBE</button>
+        <div className="container-fluid banner">
+          <div className="row justify-content-center align-items-center text-center">
+            <div className="col-lg-6">
+              <h2 className="text-white">Subscribe To Our Newsletter for getting quick Information.</h2>
+              <div className='card'>
+                <form className="newsletter-form">
+                  <div className="input-group">
+                    <input type="text" className="form-control" placeholder="Your Name" />
+                    <input type="email" className="form-control" placeholder="Your Email Address" />
+                    <button className="btn btn-primary">SUBSCRIBE</button>
+                  </div>
+                </form>
+              </div>
+            </div>
+            <div className="col-lg-4">
+              <img className='ll' src="https://www.snsc.edu.np/images/500x542.jpg" alt="" />
+            </div>
           </div>
-        </form>
         </div>
-      </div>
-      <div className="col-lg-4">
-      <img  className='ll' src="https://www.snsc.edu.np/images/500x542.jpg" alt="" />
-      </div>
-    </div>
-  </div>
-</section>
+      </section>
 
     </>
   )
